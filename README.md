@@ -1,2 +1,2 @@
 # reactForms
-How form submissions work in react using simple student details form 
+How form submissions work in react using formik 
